@@ -1,4 +1,9 @@
 # OculusHand
+## preview
+![blendTree](./Img/blendTree.png)
+![PointAnimation](./Img/PointAnimation.png)
+
+
 ## what I added
 - add "point animation" for both left and right hand 
 - add it to blend tree
