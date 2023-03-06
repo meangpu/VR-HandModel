@@ -2,8 +2,8 @@
 
 ## preview
 
-![blendTree](./Img/blendTree.png| width=100)
-![PointAnimation](./Img/PointAnimation.png| width=100)
+<img src="./Img/blendTree.png" width="200" height="400" />
+<img src="./Img/PointAnimation.png" width="200" height="400" />
 
 ## what I added
 
