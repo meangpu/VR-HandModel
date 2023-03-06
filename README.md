@@ -16,6 +16,8 @@
 
 ## How To use it
 
+- import the `OculusHandPointAnimation.unitypackage` into your unity project
+- use hand in prefab folder
 - you still need to setup the script to use your XRI system
 - Go at this exact video timestamp https://youtu.be/8PCNNro7Rt0?t=693 and follow the video
 
