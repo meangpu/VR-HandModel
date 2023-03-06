@@ -4,7 +4,7 @@
 
 <p float="left">
 <img src="./Img/blendTree.png" width="230" height="450" />
-<img src="./Img/PointAnimation.png" width="900" height="600" />
+<img src="./Img/PointAnimation.png" width="450" height="300" />
 </p>
 
 ## what I added
