@@ -7,7 +7,7 @@
 
 ## How To use it 
 - you still need to setup the script to use your XRI system
-- Go at this exact video timestamp [How to Make a VR Game in Unity 2022 - PART 2 - INPUT and HAND PRESENCE - YouTube](https://www.youtube.com/watch?v=8PCNNro7Rt0?t=737) and follow the video
+- Go at this exact video timestamp https://youtu.be/8PCNNro7Rt0?t=693 and follow the video
 
 
 
