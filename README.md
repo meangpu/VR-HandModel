@@ -3,8 +3,8 @@
 ## preview
 
 <p float="left">
-<img src="./Img/blendTree.png" width="300" height="400" />
-<img src="./Img/PointAnimation.png" width="300" height="400" />
+<img src="./Img/blendTree.png" width="230" height="450" />
+<img src="./Img/PointAnimation.png" width="900" height="600" />
 </p>
 
 ## what I added
